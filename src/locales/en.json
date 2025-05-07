@@ -8,7 +8,7 @@
         },
         {
             "title": "Projects",
-            "link": "/"
+            "link": ""
         }
     ],
     "resume": "Resume",
@@ -26,15 +26,11 @@
             ]
         },
         {
-            "title": "TYP - A TinderLike Mobile App",
-            "description": "A mobile application that works as a Tinder Like app designed to neurodivergent public, where they can be more comfortable to meet new friends and possibly affective rellationships.",
+            "title": "TYP - A Dating APP Mobile For Neurodivergent People",
+            "description": "A mobile application that works as a dating app designed to neurodivergent public, where they can be more comfortable to meet new friends and possibly affective rellationships. The stacks used are React Native for the mobile app, Node.js for the backend, and MongoDB for the database. The app allows users to create profiles, swipe through potential matches, and chat with each other.",
             "background": "/typ-banner.jpg",
-            "link": "",
+            "link": "https://github.com/mt300/typ-mobile",
             "links": [
-                {
-                    "title": "LandingPage",
-                    "link": ""
-                },
                 {
                     "title": "Backend GitHub Repository",
                     "link": "https://github.com/mt300/typ-server-v1"
@@ -46,14 +42,14 @@
             ]
         },
         {
-            "title": "Ideer - AI powered Idea Generator",
-            "description": "A web application that integrates with the ChatGPT API to provide social media post ideas. The user can choose the social media platform and the type of post they want to create, including tags and categories. The application generates a list of ideas based on the user's input using optmized prompts and structured outputs.",
+            "title": "Ideer - AI powered Ideas Generator",
+            "description": "A web application that integrates with the ChatGPT API to provide social media post ideas. The user can choose the social media platform and the type of post they want to create, including tags and categories. The application generates a list of ideas based on the user's input using optmized prompts and structured outputs. This project uses React for the frontend, Node.js for the backend, and PostgreSQL for the database. The app allows users to create an account, save their ideas, and share them with others.",
             "background": "/ideer-banner.jpeg",
-            "link": "",
+            "link": "https://github.com/mt300/Ideer-landingpage",
             "links": [
                 {
                     "title": "LandingPage",
-                    "link": ""
+                    "link": "https://github.com/mt300/Ideer-landingpage"
                 },
                 {
                     "title": "Frontend GitHub Repository",
@@ -67,9 +63,9 @@
         },
         {
             "title": "Whatsapp ChatBot AI Powered",
-            "description": "A backend application that integrates with the ChatGPT and Gemini API's to create automated responses to whatsapp messages.On this project the prompt is set to create budgets for new projects, but it also works as FAQ, scheduler and sales, all it's need is access to company products databases or calendar.",
+            "description": "A backend application that integrates with the ChatGPT and Gemini API's to create automated responses to whatsapp messages.On this project the prompt is set to create budgets for new projects, but it also works as FAQ, scheduler and sales, all it's need is access to company products databases or calendar. This project uses Node.js.",
             "background": "/chatbot-banner.jpeg",
-            "link": "",
+            "link": "https://github.com/mt300/ai-humanized-chatbot",
             "links": [
                 {
                     "title": "Backend GitHub Repository",

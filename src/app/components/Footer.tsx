@@ -38,7 +38,7 @@ export default function Footer() {
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="/"
+          href="/resume/CV_Matheus_Tomazi.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >

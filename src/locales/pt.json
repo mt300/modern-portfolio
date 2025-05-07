@@ -11,5 +11,67 @@
             "link": "/projects"
         }
     ],
-    "resume": "Currículo"
+    "resume": "Currículo",
+    "projects": [
+        {
+            "title": "Watch Party - Assista vídeos do youtube com amigos em tempo real",
+            "description": "Um app fullstack feito com React no frontend, Vitest para testes unitários e Firebase para o banco de dados. O app permite que os usuários criem salas compartilhadas e assistam videos do youtube em tempo real. Quando um dos membros da sala da play, pause ou pula para um ponto especifico do video, todos os usuários sofrem as mesmas mudanças em seus navegadore.",
+            "background": "/watch-party-banner.jpg",
+            "link": "https://github.com/mt300/watch-party",
+            "links": [
+                {
+                    "title": "Repositório GitHub - SPA",
+                    "link": "https://github.com/mt300/watch-party"
+                }
+            ]
+        },
+        {
+            "title": "TYP - App de Encontros Mobile Para Pessoas Neurodivergentes",
+            "description": "Um app mobile de encontros projetado para o público neurodivergente, onde eles podem se sentir mais confortáveis para conhecer novos amigos e possivelmente relacionamentos afetivos. As stacks usadas são React Native para o app mobile, Node.js para o backend e MongoDB para o banco de dados. O app permite que os usuários criem perfis, deslizem por possíveis matches e conversem entre si.",
+            "background": "/typ-banner.jpg",
+            "link": "https://github.com/mt300/typ-mobile",
+            "links": [
+                {
+                    "title": "Repositório Backend GitHub",
+                    "link": "https://github.com/mt300/typ-server-v1"
+                },
+                {
+                    "title": "Repositório Frontend GitHub",
+                    "link": "https://github.com/mt300/typ-mobile"
+                }
+            ]
+        },
+        {
+            "title": "Ideer - Gerador de Ideias com IA",
+            "description": "Um aplicativo web que integra com a API do ChatGPT para fornecer ideias de postagens em redes sociais. O usuário pode escolher a plataforma de mídia social e o tipo de postagem que deseja criar, incluindo tags e categorias. O aplicativo gera uma lista de ideias com base na entrada do usuário usando prompts otimizados e saídas estruturadas. Este projeto usa React para o frontend, Node.js para o backend e PostgreSQL para o banco de dados. O app permite que os usuários criem uma conta, salvem suas ideias e as compartilhem com outras pessoas.",
+            "background": "/ideer-banner.jpeg",
+            "link": "https://github.com/mt300/Ideer-landingpage",
+            "links": [
+                {
+                    "title": "LandingPage",
+                    "link": "https://github.com/mt300/Ideer-landingpage"
+                },
+                {
+                    "title": "Frontend GitHub Repository",
+                    "link": "https://github.com/mt300/ideer-client"
+                },
+                {
+                    "title": "Backend GitHub Repository",
+                    "link": "https://github.com/mt300/ideer-server"
+                }
+            ]
+        },
+        {
+            "title": "Whatsapp ChatBot AI Powered",
+            "description": "A backend application that integrates with the ChatGPT and Gemini API's to create automated responses to whatsapp messages.On this project the prompt is set to create budgets for new projects, but it also works as FAQ, scheduler and sales, all it's need is access to company products databases or calendar. This project uses Node.js.",
+            "background": "/chatbot-banner.jpeg",
+            "link": "https://github.com/mt300/ai-humanized-chatbot",
+            "links": [
+                {
+                    "title": "Backend GitHub Repository",
+                    "link": "https://github.com/mt300/ai-humanized-chatbot"
+                }
+            ]
+        }
+    ]
 }
