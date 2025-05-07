@@ -1,0 +1,81 @@
+{
+    "title": "Matheus Tomazi - FullStack Developer",
+    "description": "I am a FullStack Developer with experience in building web applications using JavaScript, TypeScript, React, Node.js, LLM integrations and more. I am passionate about technology and always eager to learn new things.",
+    "menu": [
+        {
+            "title": "About",
+            "link": "about"
+        },
+        {
+            "title": "Projects",
+            "link": "/"
+        }
+    ],
+    "resume": "Resume",
+    "projects": [
+        {
+            "title": "Watch Party - Watch youtube videos with friends in Real Time",
+            "description": "A full-stack app using React for the frontend, Vitest for unit tests, and Firebase as the database. The app allows users to create rooms and watch YouTube videos together in real time. When one of the members plays, pauses, or jumps to a specific time in the video, all users in the same room experience the change. The app uses Firebase Authentication and Firestore to store user data and room information.",
+            "background": "/watch-party-banner.jpg",
+            "link": "https://github.com/mt300/watch-party",
+            "links": [
+                {
+                    "title": "Fullstack - SPA GitHub Repository",
+                    "link": "https://github.com/mt300/watch-party"
+                }
+            ]
+        },
+        {
+            "title": "TYP - A TinderLike Mobile App",
+            "description": "A mobile application that works as a Tinder Like app designed to neurodivergent public, where they can be more comfortable to meet new friends and possibly affective rellationships.",
+            "background": "/typ-banner.jpg",
+            "link": "",
+            "links": [
+                {
+                    "title": "LandingPage",
+                    "link": ""
+                },
+                {
+                    "title": "Backend GitHub Repository",
+                    "link": "https://github.com/mt300/typ-server-v1"
+                },
+                {
+                    "title": "Frontend GitHub Repository",
+                    "link": "https://github.com/mt300/typ-mobile"
+                }
+            ]
+        },
+        {
+            "title": "Ideer - AI powered Idea Generator",
+            "description": "A web application that integrates with the ChatGPT API to provide social media post ideas. The user can choose the social media platform and the type of post they want to create, including tags and categories. The application generates a list of ideas based on the user's input using optmized prompts and structured outputs.",
+            "background": "/ideer-banner.jpeg",
+            "link": "",
+            "links": [
+                {
+                    "title": "LandingPage",
+                    "link": ""
+                },
+                {
+                    "title": "Frontend GitHub Repository",
+                    "link": "https://github.com/mt300/ideer-client"
+                },
+                {
+                    "title": "Backend GitHub Repository",
+                    "link": "https://github.com/mt300/ideer-server"
+                }
+            ]
+        },
+        {
+            "title": "Whatsapp ChatBot AI Powered",
+            "description": "A backend application that integrates with the ChatGPT and Gemini API's to create automated responses to whatsapp messages.On this project the prompt is set to create budgets for new projects, but it also works as FAQ, scheduler and sales, all it's need is access to company products databases or calendar.",
+            "background": "/chatbot-banner.jpeg",
+            "link": "",
+            "links": [
+                {
+                    "title": "Backend GitHub Repository",
+                    "link": "https://github.com/mt300/ai-humanized-chatbot"
+                }
+            ]
+        }
+    ]
+}

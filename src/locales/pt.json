@@ -1,0 +1,15 @@
+{
+    "title": "Matheus Tomazi - Desenvolvedor FullStack",
+    "description": "Sou um Desenvolvedor FullStack com experiência em construir aplicações web usando JavaScript, TypeScript, React, Node.js, integrações LLM e mais. Sou apaixonado por tecnologia e sempre ansioso para aprender coisas novas.",
+    "menu": [
+        {
+            "title": "Sobre",
+            "link": "/about"
+        },
+        {
+            "title": "Projetos",
+            "link": "/projects"
+        }
+    ],
+    "resume": "Currículo"
+}
